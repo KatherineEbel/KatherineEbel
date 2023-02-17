@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a full-stack software engineer based in Green Cove Springs, Florida. I recently co-created [Skopos](https://skopos-api-monitoring.github.io), an open-source API monitoring application, and now I am actively looking for new opportunities.
+I'm a full-stack software engineer based in Green Cove Springs, Florida. I am currently working with Hare Media Group as a Software Engineer primarily focused on Frontend.
 
 <!--
 **KatherineEbel/KatherineEbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
